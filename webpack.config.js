@@ -74,7 +74,7 @@ module.exports = (env, argv) => {
       },
     },
 
-    // Плагіни
+    //Плагіни
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
